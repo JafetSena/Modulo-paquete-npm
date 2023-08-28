@@ -3,12 +3,12 @@
 Ejercicio de creación de módulos de JavaScript
 
 Instalación del módulo:
-´´´bash
+```bash
     $ npm install paketin
-´´´
+```
 
 Uso del módulo
-´´´js
+```js
 const paketin = require('paketin');
 let frase = paketin.obtenerFrase(n); /*Donde n es un número del 0 al 2/
-
+```
